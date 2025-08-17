@@ -1,0 +1,22 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+coverage/
+# Env & local configs
+.env*
+!.env.example
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# OS / Editor
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+# Testing artifacts
+jest-test-results.json
+# Misc
+*.log
