@@ -1,0 +1,73 @@
+body {
+    background-color: #f9f9f9; /* Light background for better readability */
+    color: #333; /* Dark text for contrast */
+    font-family: 'Arial', sans-serif; /* Simple, legible font */
+    font-size: 16px; /* Base font size */
+}
+
+h1, h2, h3 {
+    color: #1E40AF; /* TVS Blue for headings */
+}
+
+button {
+    background-color: #059669; /* Success Green for buttons */
+    color: white; /* White text on buttons */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 15px; /* Padding for buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+    background-color: #047857; /* Darker green on hover */
+}
+
+a {
+    color: #1E40AF; /* TVS Blue for links */
+    text-decoration: none; /* No underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.chat-bubble {
+    background-color: #e1f5fe; /* Light blue for chat bubbles */
+    border-radius: 10px; /* Rounded corners for chat bubbles */
+    padding: 10px; /* Padding inside chat bubbles */
+    margin: 5px 0; /* Margin between chat bubbles */
+}
+
+.voice-input {
+    border: 2px dashed #1E40AF; /* Dashed border for voice input area */
+    border-radius: 10px; /* Rounded corners */
+    padding: 15px; /* Padding for voice input */
+    text-align: center; /* Centered text */
+}
+
+.quick-action {
+    background-color: #ffffff; /* White background for quick actions */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px; /* Padding for quick actions */
+    text-align: center; /* Centered text */
+    transition: background-color 0.3s; /* Smooth background transition */
+}
+
+.quick-action:hover {
+    background-color: #f0f0f0; /* Light gray on hover */
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px; /* Smaller font size for mobile */
+    }
+
+    button {
+        padding: 8px 12px; /* Smaller padding for buttons on mobile */
+    }
+
+    .chat-bubble {
+        padding: 8px; /* Smaller padding for chat bubbles on mobile */
+    }
+}

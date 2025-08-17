@@ -1,0 +1,16 @@
+{
+  "welcome": "स्वागत है",
+  "how_can_i_help_you": "मैं आपकी कैसे मदद कर सकता हूँ?",
+  "loan_application": "ऋण आवेदन",
+  "emi_due_date": "ईएमआई देय तिथि",
+  "make_payment": "भुगतान करें",
+  "upload_documents": "दस्तावेज़ अपलोड करें",
+  "track_application": "आवेदन ट्रैक करें",
+  "contact_support": "सहायता से संपर्क करें",
+  "calculate_loan": "ऋण की गणना करें",
+  "thank_you": "धन्यवाद",
+  "error": "कुछ गलत हो गया, कृपया पुनः प्रयास करें",
+  "loading": "लोड हो रहा है...",
+  "voice_input": "कृपया बोलें...",
+  "language_selection": "भाषा चयन करें"
+}

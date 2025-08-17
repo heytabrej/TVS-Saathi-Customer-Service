@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome to TVS Credit Saathi Smart Assistant!",
+  "greeting": "Hello! How can I assist you today?",
+  "loan_application": {
+    "start": "Let's start your loan application.",
+    "instructions": "Please provide the necessary documents and information."
+  },
+  "emi": {
+    "check_due": "You can check your EMI due date here.",
+    "payment_reminder": "Don't forget your upcoming EMI payment!"
+  },
+  "grievance": {
+    "file_complaint": "Please describe your issue to file a complaint.",
+    "status": "Your complaint status is being processed."
+  },
+  "quick_actions": {
+    "upload_documents": "Upload your documents easily.",
+    "contact_support": "Contact support for immediate assistance."
+  },
+  "farewell": "Thank you for using Saathi Smart Assistant! Have a great day!"
+}
